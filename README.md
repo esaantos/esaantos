@@ -6,7 +6,7 @@ Tambem sou graduado em gestão financeira, apaixonado pelo mercado financeiro e 
 
 Atualmente estou estudando todo o universo de dados e Machine Learning.
 
-Aqui você vai encontrar alguns projetos produzidos por mim.
+Aqui você vai encontrar alguns materiais de estudos e projetos produzidos por mim.
 
 <div> 
   <a href="https://github.com/esaantos">
