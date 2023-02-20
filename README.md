@@ -2,7 +2,7 @@
 <h1>Everson Santos</h1>
 
 Desenvolvedor Full Stack com bons conhecimentos em .NET C#, Python e Java.
-Especialista em Data Science e Big Data Analytics, tambem sou graduado em gestão financeira, apaixonado pelo mercado financeiro e solução de problemas.
+Tenho especialização em Data Science e Big Data Analytics, e tambem sou graduado em gestão financeira, apaixonado pelo mercado financeiro e solução de problemas.
 
 Atualmente estou estudando todo o universo de dados e Machine Learning.
 
